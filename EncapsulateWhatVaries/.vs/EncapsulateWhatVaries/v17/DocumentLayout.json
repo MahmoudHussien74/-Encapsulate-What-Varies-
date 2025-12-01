@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SOLID Principles\\EncapsulateWhatVaries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6606C8-65D3-4BFB-AB56-4D873F5B9527}|EncapsulateWhatVaries\\EncapsulateWhatVaries.csproj|d:\\solid principles\\encapsulatewhatvaries\\encapsulatewhatvaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6606C8-65D3-4BFB-AB56-4D873F5B9527}|EncapsulateWhatVaries\\EncapsulateWhatVaries.csproj|solutionrelative:encapsulatewhatvaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1898,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SOLID Principles\\EncapsulateWhatVaries\\EncapsulateWhatVaries\\Program.cs",
+              "RelativeDocumentMoniker": "EncapsulateWhatVaries\\Program.cs",
+              "ToolTip": "D:\\SOLID Principles\\EncapsulateWhatVaries\\EncapsulateWhatVaries\\Program.cs",
+              "RelativeToolTip": "EncapsulateWhatVaries\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T22:07:12.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

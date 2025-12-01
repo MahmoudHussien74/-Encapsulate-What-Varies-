@@ -1,0 +1,14 @@
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\net8.0\EncapsulateWhatVaries.exe
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\net8.0\EncapsulateWhatVaries.deps.json
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\net8.0\EncapsulateWhatVaries.runtimeconfig.json
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\net8.0\EncapsulateWhatVaries.dll
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\bin\Debug\net8.0\EncapsulateWhatVaries.pdb
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net8.0\EncapsulateWhatVaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net8.0\EncapsulateWhatVaries.AssemblyInfoInputs.cache
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net8.0\EncapsulateWhatVaries.AssemblyInfo.cs
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net8.0\EncapsulateWhatVaries.csproj.CoreCompileInputs.cache
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net8.0\EncapsulateWhatVaries.dll
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net8.0\refint\EncapsulateWhatVaries.dll
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net8.0\EncapsulateWhatVaries.pdb
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net8.0\EncapsulateWhatVaries.genruntimeconfig.cache
+D:\SOLID Principles\EncapsulateWhatVaries\EncapsulateWhatVaries\obj\Debug\net8.0\ref\EncapsulateWhatVaries.dll
